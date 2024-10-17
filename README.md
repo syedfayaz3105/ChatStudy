@@ -134,7 +134,9 @@ if __name__ == '__main__':
     server_program()
 ```
 ## OUTPUT
+## Client
 ![cnexp1bc](https://github.com/user-attachments/assets/210c33b0-bdbf-4aaf-a55a-82e1110a6b61)
+## Server
 ![cnexp1b s](https://github.com/user-attachments/assets/5acf0dfa-bb24-4de6-9d26-2fd4c544a50f)
 
 
